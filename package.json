@@ -1,0 +1,11 @@
+{
+  "name": "upload_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akosyakov/upload_test.git",
+  "author": "Anton Kosyakov <anton.kosyakov@typefox.io>",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
